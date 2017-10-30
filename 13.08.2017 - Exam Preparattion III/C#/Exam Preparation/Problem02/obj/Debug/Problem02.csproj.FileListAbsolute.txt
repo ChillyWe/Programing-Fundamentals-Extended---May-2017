@@ -1,0 +1,6 @@
+F:\SoftUni\Programing Fundamentals Extended - May 2017\13.08.2017 - Exam Preparattion III\C#\Exam Preparation\Problem02\obj\Debug\Problem02.csprojResolveAssemblyReference.cache
+F:\SoftUni\Programing Fundamentals Extended - May 2017\13.08.2017 - Exam Preparattion III\C#\Exam Preparation\Problem02\bin\Debug\Problem02.exe.config
+F:\SoftUni\Programing Fundamentals Extended - May 2017\13.08.2017 - Exam Preparattion III\C#\Exam Preparation\Problem02\bin\Debug\Problem02.exe
+F:\SoftUni\Programing Fundamentals Extended - May 2017\13.08.2017 - Exam Preparattion III\C#\Exam Preparation\Problem02\bin\Debug\Problem02.pdb
+F:\SoftUni\Programing Fundamentals Extended - May 2017\13.08.2017 - Exam Preparattion III\C#\Exam Preparation\Problem02\obj\Debug\Problem02.exe
+F:\SoftUni\Programing Fundamentals Extended - May 2017\13.08.2017 - Exam Preparattion III\C#\Exam Preparation\Problem02\obj\Debug\Problem02.pdb
